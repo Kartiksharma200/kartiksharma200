@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Quality Analyst passionate about delivering smooth and efficient software experiences. Specializes in automation and manual testing, with a keen eye for identifying and solving complex issues. Continuously learns and adapts to deliver high-quality solutions. Explores new tools and technologies to stay current with industry trends. Repositories showcase diverse work and expertise.</h3>
+<h3 align="left">👩‍💻  Enthusiastic QA Engineer | SDET with a strong foundation in manual and automated testing, proficient in Selenium, Page Object Model (POM), and Appium. Quick learner with a passion for problem-solving and quality assurance, eager to explore emerging technologies like Java and Generative AI for efficient bug detection and test automation. Dedicated team player committed to delivering high-quality software solutions..</h3>
 
 ###
 
