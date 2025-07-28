@@ -1,71 +1,80 @@
-<h1 align="center">Hey👋 I'm Kartik Sharma</h1>
+<h1 align="center">Hey 👋 I'm Kartik Sharma</h1>
 
-###
+<p align="center">
+  <strong>💻 QA Engineer | SDET | Automation Enthusiast</strong><br>
+  Passionate about building robust and efficient test automation frameworks and ensuring bug-free experiences!
+</p>
 
-<h3 align="left">👩‍💻  Enthusiastic QA Engineer | SDET with a strong foundation in manual and automated testing, proficient in Selenium, Page Object Model (POM), and Appium. Quick learner with a passion for problem-solving and quality assurance, eager to explore emerging technologies like Java and Generative AI for efficient bug detection and test automation. Dedicated team player committed to delivering high-quality software solutions..</h3>
+---
 
-###
+### 👨‍💻 About Me
 
-<p align="left">I'm ... from ....Roorkee, Haridwar(U.K)<br><br>- 📚 I'm currently learning Selenium<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing,  Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kartiksharma200-git-ui<br>-📫 Feel free to reach me at Kartikgautam1106@gmail.com<br>-📄 Know about my experiences Resume</p>
+- 🏡 From Roorkee, Haridwar (Uttarakhand), India  
+- 💡 QA Engineer with expertise in **Manual Testing**, **Selenium**, **Appium**, **Cypress**, **API Testing**, and **BDD**  
+- 💬 Ask me about: **Java**, **JavaScript**, **Postman**, **Rest Assured**, **Cypress**, **Selenium**, **Appium**, **Manual Testing**  
+- 🚀 Currently exploring **Generative AI** for intelligent test automation  
+- 📚 I'm currently learning: **Advanced Selenium** and **Java-based Frameworks**  
+- 🔗 All my projects are available [here](https://github.com/Kartiksharma200?tab=repositories)  
+- 📧 Reach me at: **Kartikgautam1106@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/1lQNFMdXDceqnu1Khw4oXL3P8tCvFLGKn/view?usp=sharing) 
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kartiksharma200&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartiksharma200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartiksharma200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+### 🛠️ Languages & Tools
 
 <div align="left">
-  <a href="www.linkedin.com/in/kartiksharma2003" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="Cucumber" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="Gherkin" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kartiksharma200&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartiksharma200&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartiksharma200&layout=compact&theme=dracula" height="150" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kartiksharma2003" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Sharmakartik200" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
+  </a>
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
+  </a>
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Kartiksharma200/Kartiksharma200/output/snake.svg" alt="Snake animation" />
+### 🐍 GitHub Contribution Snake
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kartiksharma200/Kartiksharma200/output/snake.svg" alt="Snake animation" />
+</div>
+
